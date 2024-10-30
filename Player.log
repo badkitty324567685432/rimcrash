@@ -1,0 +1,721 @@
+Mono path[0] = 'D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Managed'
+Mono config path = 'D:/SteamLibrary/steamapps/common/RimWorld/MonoBleedingEdge/etc'
+Initialize engine version: 2019.4.30f1 (e8c891080a1f)
+[Subsystems] Discovering subsystems at path D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c8c)
+    Vendor:   
+    VRAM:     4017 MB
+    Driver:   31.0.15.3742
+Begin MonoManager ReloadAssembly
+- Completed reload, in  5.303 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.476300 ms
+Command line arguments: -savedatafolder=C:\Users\kcook\AppData\LocalLow\Ludeon Studios\RimWorld by Ludeon Studios
+RimWorld 1.5.4243 rev947
+Save data folder overridden to C:\Users\kcook\AppData\LocalLow\Ludeon Studios\RimWorld by Ludeon Studios
+Mod  is missing supported versions list in About.xml! (example: <supportedVersions><li>1.0</li></supportedVersions>) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod test is missing packageId in About.xml! (example: <packageId>AuthorName.ModName.Specific</packageId>) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod ideology Column Patch for Gothicstyle Vampire Furniture has a dependency (mingtuwuxiang.gothicdecorative) with empty display name. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod ideology Column Patch for Gothicstyle Vampire Furniture dependency (mingtuwuxiang.gothicdecorative) needs to have <downloadUrl> and/or <steamWorkshopUrl> specified. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod ideology Column Patch for Gothicstyle Vampire Furniture has a dependency (ludeon.rimworld.ideology) with empty display name. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001B185AECCA0.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001B1AE873580.dll
+[VBE] RimThemes detected, activating compatibility...
+[VBE] Unpatching RimThemes background patch...
+[HugsLib] version 11.0.4
+[HugsLib] early-initializing AllowTool
+patched at 69 Objmodel False
+man turret reload patched at 28 Macro True
+man turret reserve patched at 187 ldc.i4.1 Macro True
+1.5.8928 ::
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001B1B120F030.dll
+1.1.8838 ::
+RimThemes NX
+DubsMintMenus v1.3.1086
+[Analyzer] ==========================================================================
+[Analyzer]                          Analyzer Running In Debug Mode                  
+[Analyzer] ==========================================================================
+ModContentPack.LoadPatches does not matches the reference. Skipping transpiler 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+<color=#66ffb5>[MeleeAnim]</color> Hello, world!
+Build date: 8/26/2024 1:25 PM
+Loaded assemblies (11):
+0BetterFloatMenu, Version=15.0.0.0, Culture=neutral, PublicKeyToken=null,
+0ColourPicker, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null,
+AMRetextureSupport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null,
+Meta.Numerics, Version=3.1.0.0, Culture=neutral, PublicKeyToken=67d25c65a6631347,
+ModRequestAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null,
+ModRequestAPI.Models, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null,
+Unity.Newtonsoft.Json, Version=7.0.0.0, Culture=neutral, PublicKeyToken=null,
+zAnimationMod, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null,
+AM.FacialAnimationPatch, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null,
+AM.AlienRacesPatch, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null,
+zz.AM.PerformanceOptimizerPatch, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+<color=#66ffb5>[MeleeAnim]</color> Scanning 345 mods for animation data...
+<color=#66ffb5>[MeleeAnim]</color> Found 1 mod folders with animation data, total 69 loadable files.
+<color=#66ffb5>[MeleeAnim]</color> [<color=#63e0ff>Facial Animation Patch</color>] Successfully loaded Facial Animation patch.
+<color=#66ffb5>[MeleeAnim]</color> <color=#ffa8fc>[Alien Races Patch]</color> Loaded alien races patch!
+<color=#66ffb5>[MeleeAnim]</color> <color=#ffa8fc>[Perf.Opt]</color> Loaded Performance Optimizer patch!
+<color=#66ffb5>[MeleeAnim]</color> <color=#ffa8fc>[Perf.Opt]</color> Successfully patched and disabled buggy optimizations.
+Persistent Precepts Mod class loaded
+RaiseRolesLimit: start patching
+RaiseRolesLimit: anchor string foud at line 58
+RaiseRolesLimit: code patched at line 56
+RaiseRolesLimit: code patched at line 59
+[Reorderer v1.5] Initialized
+RimSaves NX
+[Interaction Bubbles v3.1] Initialized
+UseMinifiedBuildings - QualityBuilder integration activated
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001B1D621D020.dll
+Loaded What's That Mod.
+RaiseRolesLimit: start patching
+RaiseRolesLimit: anchor string foud at line 58
+RaiseRolesLimit: code patched at line 56
+RaiseRolesLimit: code patched at line 59
+[1.3]Graphics Setter - Loaded
+QualityBuilder successfully patched Replace Stuff
+[VanillaFixHaulAfterSlaughter 0.3.0] Mod Loaded.
+[RimHUD v1.15.3] Initialized
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001B1D5C6F020.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001B1D65D6010.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001B1D661C700.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001B1B0D33020.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001B1D5C87A60.dll
+GAGARIN: <color=green>StartUpStarted called!</color>
+GAGARIN: <color=green>Cache found</color> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: <color=yello>Cache disabled from</color>
+Gagarin.StartupHelper:StartUpStarted():0
+System.Reflection.MonoMethod:InternalInvoke():0
+System.Reflection.MonoMethod:Invoke():0
+System.Reflection.MethodBase:Invoke():0
+RocketMan.FunctionsUtility+<>c__DisplayClass1_0`1[[RocketMan.Main+OnInitialization, Cosmodrome, Version=0.6.3.2421, Culture=neutral, PublicKeyToken=null]]:<GetActions>b__3():0
+RocketMan.RocketMod:.ctor():0
+System.Reflection.MonoCMethod:InternalInvoke():0
+System.Reflection.MonoCMethod:InternalInvoke():0
+System.Reflection.MonoCMethod:DoInvoke():0
+System.Reflection.MonoCMethod:Invoke():0
+System.RuntimeType:CreateInstanceImpl():0
+System.Activator:CreateInstance():0
+System.Activator:CreateInstance():0
+Verse.LoadedModManager:CreateModClasses():0
+Verse.LoadedModManager:LoadAllActiveMods():0
+Verse.PlayDataLoader:DoPlayLoad():0
+Verse.PlayDataLoader:LoadAllPlayData():0
+Verse.Root+<>c:<Start>b__6_1():0
+Verse.LongEventHandler:RunEventFromAnotherThread():0
+Verse.LongEventHandler+<>c:<UpdateCurrentAsynchronousEvent>b__28_0():0
+System.Threading.ThreadHelper:ThreadStart_Context():0
+System.Threading.ExecutionContext:RunInternal():0
+System.Threading.ExecutionContext:Run():0
+System.Threading.ExecutionContext:Run():0
+System.Threading.ThreadHelper:ThreadStart():0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: Mod list changed! Deleting cache 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: <color=green>Cache not found or got purged!</color> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+b.4243:10/9/2024 12:00:00 AM:1.5.4243 rev947
+b.4243:10/9/2024 12:00:00 AM:1.5.4243 rev947
+b.4243:10/9/2024 12:00:00 AM:1.5.4243 rev947
+b.4243:10/9/2024 12:00:00 AM:1.5.4243 rev947
+ReGrowth: Core 3.6-Mundi-rev7
+ReSplice: Core 1.0.1-Shelley-rev5
+ReBuild: Doors and Corners 1.2-Miller-rev3
+ReSplice: Charmweavers 1.1-Lurelings-rev5
+GAGARIN: <color=white>LoadModXML_Profiler</color> took <color=red>57.455</color> seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: CombineIntoUnifiedXML has <color=red>Context.IsUsingCache=False</color> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: <color=white>CombineIntoUnifiedXML_Profiler</color> took <color=red>2.298</color> seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: <color=white>TKeySystem.Parse</color> took <color=red>0.006</color> seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+LWM Deep Storage: activated compatibility patch for Dubs Bad Hygiene
+LWM Deep Storage: activated compatibility patch for Vanilla Cooking Expanded
+LWM Deep Storage: activated compatibility patch for VGP Vegetable Garden
+GAGARIN: <color=white>ApplyPatches_Profiler</color> took <color=red>44.186</color> seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: <color=white>XmlInheritance.Resolve</color> took <color=red>0.955</color> seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML error: <li>MUS_Gothicstyle_Column</li> doesn't correspond to any field in type RoomRequirement_ThingCount. Context: <li Class="RoomRequirement_ThingCount"><thingDef>Column</thingDef><li>MUS_Gothicstyle_Column</li><li>MUS_Gothicstyle_WallColumn</li><li>MUS_Gothicstyle_WallColumnFront</li><count>4</count></li> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML RimWorld.RoomRequirement defines the same field twice: li.
+
+Field contents: MUS_Gothicstyle_WallColumn.
+
+Whole XML:
+
+<li Class="RoomRequirement_ThingCount"><thingDef>Column</thingDef><li>MUS_Gothicstyle_Column</li><li>MUS_Gothicstyle_WallColumn</li><li>MUS_Gothicstyle_WallColumnFront</li><count>4</count></li> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML error: <li>MUS_Gothicstyle_WallColumn</li> doesn't correspond to any field in type RoomRequirement_ThingCount. Context: <li Class="RoomRequirement_ThingCount"><thingDef>Column</thingDef><li>MUS_Gothicstyle_Column</li><li>MUS_Gothicstyle_WallColumn</li><li>MUS_Gothicstyle_WallColumnFront</li><count>4</count></li> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML RimWorld.RoomRequirement defines the same field twice: li.
+
+Field contents: MUS_Gothicstyle_WallColumnFront.
+
+Whole XML:
+
+<li Class="RoomRequirement_ThingCount"><thingDef>Column</thingDef><li>MUS_Gothicstyle_Column</li><li>MUS_Gothicstyle_WallColumn</li><li>MUS_Gothicstyle_WallColumnFront</li><count>4</count></li> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML error: <li>MUS_Gothicstyle_WallColumnFront</li> doesn't correspond to any field in type RoomRequirement_ThingCount. Context: <li Class="RoomRequirement_ThingCount"><thingDef>Column</thingDef><li>MUS_Gothicstyle_Column</li><li>MUS_Gothicstyle_WallColumn</li><li>MUS_Gothicstyle_WallColumnFront</li><count>4</count></li> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 15.1 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 23.1 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 35.1 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 44.1 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 52.1 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 63.5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 72.1 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 73.1 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 23.1 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 92.1 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 93.1 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 101.1 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 103.1 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 102.1 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 103.1 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+b.4243:10/9/2024 12:00:00 AM:1.5.4243 rev947
+GAGARIN: <color=white>Cache created!</color> creating cache took <color=green>1 seconds</color> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: <color=white>ParseAndProcessXML_Profiler</color> took <color=red>29.51</color> seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[[BT] EyeGenes2 | Base - [NL] Facial Animation |] Patch operation Verse.PatchOperationSequence(count=1, lastFailedOperation=Verse.PatchOperationRemove(Defs/HediffDef[defName="VoidTouched"]/renderNodeProperties)) failed
+file: D:\SteamLibrary\steamapps\workshop\content\294100\2898151329\Additionals\Official\Anomaly\Patches\fix_eyes.xml 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Treasures] Patch operation Verse.PatchOperationFindMod(Jewelry) failed
+file: D:\SteamLibrary\steamapps\workshop\content\294100\2971815439\1.5\Patches\Jewelry.xml 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Pawn Badge Fan Fork [Adopted]] Patch operation Verse.PatchOperationAdd(Defs/AlienRace.ThingDef_AlienRace[race/intelligence="Humanlike"]/comps) failed
+file: D:\SteamLibrary\steamapps\workshop\content\294100\2526040241\1.5\HAR\Patches\CompBadges_Patches_HAR.xml 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Pawn Badge Fan Fork [Adopted]] Patch operation Verse.PatchOperationAdd(Defs/AlienRace.ThingDef_AlienRace[race/intelligence="Humanlike"]/inspectorTabs) failed
+file: D:\SteamLibrary\steamapps\workshop\content\294100\2526040241\1.5\HAR\Patches\CompBadges_Patches_HAR.xml 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Lag Free Torches and More] Patch operation Verse.PatchOperationRemove(Defs/ThingDef[
+				defName = "TorchLamp"
+				]/comps/li[@Class="CompProperties_Refuelable"]
+			  ) failed
+file: D:\SteamLibrary\steamapps\workshop\content\294100\2863526335\1.5\Core\Patches\Core No Fuel Patch.xml 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: <color=white>ClearCachedPatches_Profiler</color> took <color=red>0.003</color> seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+d3d11: failed to create 2D texture id=10841 width=25 height=31 mips=6 dxgifmt=28 [D3D error was 80070057]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=10841 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+d3d11: failed to create 2D texture id=10887 width=62 height=50 mips=7 dxgifmt=28 [D3D error was 80070057]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=10887 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+d3d11: failed to create 2D texture id=15735 width=23 height=61 mips=7 dxgifmt=28 [D3D error was 80070057]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=15735 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+d3d11: failed to create 2D texture id=15753 width=127 height=127 mips=8 dxgifmt=28 [D3D error was 80070057]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=15753 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+d3d11: failed to create 2D texture id=15855 width=128 height=511 mips=10 dxgifmt=28 [D3D error was 80070057]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=15855 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+d3d11: failed to create 2D texture id=15873 width=511 height=128 mips=10 dxgifmt=28 [D3D error was 80070057]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=15873 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+d3d11: failed to create 2D texture id=16019 width=14 height=14 mips=5 dxgifmt=28 [D3D error was 80070057]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=16019 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+d3d11: failed to create 2D texture id=16021 width=14 height=14 mips=5 dxgifmt=28 [D3D error was 80070057]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=16021 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+d3d11: failed to create 2D texture id=75445 width=13 height=13 mips=5 dxgifmt=28 [D3D error was 80070057]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=75445 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+GAGARIN: <color=white>XmlInheritance.Resolve</color> took <color=red>0.96</color> seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Adding duplicate HugsLib.UpdateFeatureDef name: ColonyGroups_1_3_07 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+startIndex: 18
+endIndex: 25
+Start: newobj System.Void System.Text.StringBuilder::.ctor()
+End:callvirt virtual System.String System.Object::ToString()
+Start: stloc.1 NULL
+End:br.s Label4
+FactionDef Insect must have at least one pawnGroupMaker with kindDef 'Peaceful', or 'permanentEnemy', 'isPlayer' or 'hidden' should be set to true. Otherwise no guests from this faction will arrive. This is a misconfiguration in Core. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+ThingDef SR_Building_BondageBed must have a 'CompAssignableToPawn_Bed' in comps. This is a misconfiguration in BondageBed Torture (Continued). 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+ThingDef SR_Building_AdvancedBondageBed must have a 'CompAssignableToPawn_Bed' in comps. This is a misconfiguration in BondageBed Torture (Continued). 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+ThingDef SR_Building_BarCage must have a 'CompAssignableToPawn_Bed' in comps. This is a misconfiguration in BondageBedTorture Furniture Addon 1.4 - Retexture and More. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+ThingDef SR_Building_TrueCross must have a 'CompAssignableToPawn_Bed' in comps. This is a misconfiguration in BondageBedTorture Furniture Addon 1.4 - Retexture and More. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+ThingDef SR_Building_TortureCross must have a 'CompAssignableToPawn_Bed' in comps. This is a misconfiguration in BondageBedTorture Furniture Addon 1.4 - Retexture and More. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+ThingDef SR_Building_RoundCage must have a 'CompAssignableToPawn_Bed' in comps. This is a misconfiguration in BondageBedTorture Furniture Addon 1.4 - Retexture and More. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+ThingDef SR_Building_PrisonerPole must have a 'CompAssignableToPawn_Bed' in comps. This is a misconfiguration in BondageBedTorture Furniture Addon 1.4 - Retexture and More. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+ThingDef SR_Building_Pillory must have a 'CompAssignableToPawn_Bed' in comps. This is a misconfiguration in BondageBedTorture Furniture Addon 1.4 - Retexture and More. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+ThingDef SR_Building_OperatingBondageTable must have a 'CompAssignableToPawn_Bed' in comps. This is a misconfiguration in BondageBedTorture Furniture Addon 1.4 - Retexture and More. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+ThingDef SR_Building_BeheadingBlock must have a 'CompAssignableToPawn_Bed' in comps. This is a misconfiguration in BondageBedTorture Furniture Addon 1.4 - Retexture and More. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: <color=white>XmlInheritance.Resolve</color> took <color=red>0.96</color> seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Translation data for language English has 24 errors. Generate translation report for more info. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Big and Small]: Patched VFEInsectoids 2 with 5 genes.
+It now contains the following genes: VRE_InsectFlesh, VREH_Glidewings, VRE_MoveSpeed_ExtremelyQuick, VRE_InsectSkin, VRE_MineralRichInsectskin, LoS_Snake_Tail, LoS_Snake_Tail_HairClr, LoS_MarlithBody, BS_SpiderBody_Synthread, BS_SpiderBody_Devil
+LWM Update: stable(ish) 1.5.0.4
+LWM.DeepStorage: Making Shelf, ShelfSmall, Dresser, ToolCabinet, Hopper, ReelStorageBarrel, ReelStorageBarrelPallet, ReelStorageBookshelf, ReelStorageCargoContainer, ReelStorageHayBale, ReelIndustrialShelf, ReelStorageLargeSpacerContainer, ReelStorageLargeStonePile, ReelStorageLargeWoodChest, ReelStorageLargeWoodCrate, ReelStorageLargeWoodPile, ReelStorageLocker, ReelStorageSpacerContainer, ReelStorageSpacerContainerStack, ReelStorageSpacerLocker, ReelStorageStonePile, ReelStorageTanningRack, ReelStorageWeaponRack, ReelStorageWineRack, ReelStorageWoodChest, ReelStorageWoodCrate, ReelStorageWoodPile, ReelStorageAnimalFeeder, ReelStorageSkip, ReelStorageLargeLocker, ReelStorageLargeMetalCrate, ReelStorageMeatHook, ReelStorageMedicineCabinet, ReelStorageMetalCrate, BDsDisplay_Small, BDsDisplay_Long, BDsWeaponBoxLocked, BDsWeaponLockerLocked, BDsWeaponCrateLocked, BDsWeaponContainerLocked, BDP_ExtinguisherShelf, VNPE_NutrientPasteFeeder, VFE_Pottery, VFE_Plinth, BarrelD, BarrelE, Bundle_D, CanisterC, ChunkA, ChunkB, ContainerC, CrateH, CrateI, CrateJ, CrateK, CrateL, CylinderA, Freight_A, Freight_B, MealCrate_A, MealCrate_B, ASNeolithicBasketWoody, ASNeolithicBasketFabric, ASNeolithicHayPile, ASNeolithicLargePot, ASNeolithicMealShelf, ASNeolithicPlinthWoody, ASNeolithicTextileBundleFabric, ASNeolithicTextileBundleLeather, ASNeolithicWoodPile, EL_ArchDisplay, BasicStorageLargeBundle, BasicStorageSack, BasicStorageCargoContainer, BasicStorageCask, BasicStorageMediumCrate, BasicStorageLargeCrate, BasicStorageFoodBarrel, BasicStorageFuelTank, BasicStorageIndustrialContainer, BasicStorageMetalCrate, BasicStoragePalletLarge, BasicStoragePalletSmall, BasicStorageWoodenCrate, BasicStorageStonePot, VG_FoodShelf, LTS_Malsjo, LTS_HyllisS, LTS_HyllisL, LTS_Fridge, Outland_StoneShelf, Outland_Shelf, Shelf_WeaponRack, VFE_DrugCabinet, VFE_MachiningCabinet, VFE_SmithyCabinet, VFE_TailorCabinet, VFE_FabricationCabinet, VFES_AmmoCrate, VCHE_ChemfuelTap, VCHE_ChemfuelDrain, VCHE_DeepchemTap, VCHE_DeepchemDrain, VCEUE_ToxicWasteTap, VCEUE_ToxicWasteDrain, VCEUE_DyeTap, VCEUE_DyeDrain, VCEUE_NeutroamineTap, VCEUE_NeutroamineDrain, VRE_HemogenTap, VRE_HemogenDrain, AG_AncientShelf, VendingMachine, MedievalVendingMachine, Misc_FileCabinet, Table_Wardrobe, Table_RoyalDresser, ASNeolithicChunkStorageChunkSandstone, ASNeolithicChunkStorageChunkGranite, ASNeolithicChunkStorageChunkLimestone, ASNeolithicChunkStorageChunkSlate, ASNeolithicChunkStorageChunkMarble, ASNeolithicLargePotChunkSandstone, ASNeolithicLargePotChunkGranite, ASNeolithicLargePotChunkLimestone, ASNeolithicLargePotChunkSlate, ASNeolithicLargePotChunkMarble, ASNeolithicPlinthChunkSandstone, ASNeolithicPlinthChunkGranite, ASNeolithicPlinthChunkLimestone, ASNeolithicPlinthChunkSlate, ASNeolithicPlinthChunkMarble into Deep Storage
+Alien race successfully completed 254 patches with harmony.
+Biotech Expansion - Core Loaded!
+[KCSG] Vanilla Outposts Expanded: Additional Outposts contains 1 missing symbols. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[KCSG] Vanilla Factions Expanded - Insectoids 2 contains 1 missing symbols. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[KCSG] Vanilla Factions Expanded - Empire contains 2 missing symbols. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[KCSG] Alpha Genes contains 1 missing symbols. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[KCSG] Reel's Insector Faction contains 6 missing symbols. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[TrueTerrainColors v1.12.17] Extracted true colors from 1070 terrain defs in 122.48 seconds using a RenderTexture of size 2048x2048.
+MeditationFocusDef Void does not have a MeditationFocusExtension, which means it will not have an icon in the Psycasts UI.
+Please ask Ludeon Studios to add one. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Map Designer for 1.4] Initializing.... 
+[Map Designer] Finding biomes...
+[Map Designer] Applying settings
+[Map Designer] Terrain settings: Default
+War Crimes Expanded 2 loaded!
+Locks: Doors expanded not found 
+Locks: SoS2 not found 
+Patching Madeline.ModMismatchWindow
+GwinnBleidd's Crashlanding: Harmony patch init
+[Dynamic Diplomacy] DD loaded
+|FactionAutoLimiter|: Patched outlander refugee group from Royalty to be used in world creation.
+|FactionAutoLimiter|: Patched beggars from Ideology to be used in world creation.
+|FactionAutoLimiter|: Patched pilgrims from Ideology to be used in world creation.
+|FactionAutoLimiter|: Patched sanguophages from Biotech to be used in world creation.
+PersistentPrecepts Loaded
+[RelevantStatsInDescription]: Skipping dps-calculation of Mortar as it has no default projectile defined
+[RelevantStatsInDescription]: Skipping dps-calculation of Foam turret as its projectile does not cause damage to health
+[RelevantStatsInDescription]: Skipping dps-calculation of Mangonel as it has no default projectile defined
+[RelevantStatsInDescription]: Skipping dps-calculation of Field gun as it has no default projectile defined
+[RelevantStatsInDescription]: Skipping dps-calculation of Artillery as it has no default projectile defined
+[RelevantStatsInDescription]: Skipping dps-calculation of Searchlight as it has no default projectile defined
+[RelevantStatsInDescription]: Skipping dps-calculation of Catapult as it has no default projectile defined
+[RelevantStatsInDescription]: Skipping dps-calculation of EMP cannon as its projectile does not cause damage to health
+[RelevantStatsInDescription]: Skipping dps-calculation of Stun pulse column as its projectile does not cause damage to health
+[RelevantStatsInDescription]: Skipping dps-calculation of Deadlife column as its projectile does not cause damage to health
+[RelevantStatsInDescription]: Skipping dps-calculation of Foam belcher as its projectile does not cause damage to health
+Using DDS for Animals: False
+33
+Using DDS for Arsenal: False
+22
+Using DDS for Artistic: False
+55
+Using DDS for Basic: False
+27
+Using DDS for Biotech: False
+33
+Using DDS for Child-Care: False
+22
+Using DDS for Cuisine: False
+47
+Using DDS for Factions: False
+68
+Using DDS for Misc: False
+40
+Using DDS for Recreation: False
+18
+Using DDS for Scientific: False
+29
+Using DDS for Styles: False
+133
+Using DDS for Vanilla: False
+12
+Using DDS for Projector-Throne: False
+Using DDS for Projector-Throne_grand: False
+C:\Users\kcook\AppData\LocalLow\Ludeon Studios\RimWorld by Ludeon Studios\Config\AmnabisFlags.xml is not found.
+[Gene Extraction Tiers] Compatibility for Vanilla Nutrient Paste Expanded loaded.
+PickUpAndHaul v1.1.2¼ welcomes you to RimWorld with pointless logspam.
+[TabSorting]: Fixing kitchen room role worker, thanks slippycheeze!
+[TabSorting]: Moved 103 lights to the Lights tab.
+[TabSorting]: Removing DoorTab since its empty now.
+[TabSorting]: Removing ResearchTab since its empty now.
+[TabSorting]: Removing KitchenTab since its empty now.
+[TabSorting]: Removing StorageTab since its empty now.
+[TabSorting]: Removing DecorationTab since its empty now.
+[TabSorting]: Removing HospitalTab since its empty now.
+[TabSorting]: Removing BedroomTab since its empty now.
+[TabSorting]: Removing TableChairsTab since its empty now.
+[TabSorting]: Found 192 icons in ArchitectIcons to choose from.
+[Utility Columns] - Patching...
+Biotech Expansion - Insectoid Loaded!
+Biotech Expansion - Mammalia Loaded!
+Empire integration
+Not creating guest beds for bondageBed from BondageBed Torture (Continued). It does not have a CompAssignableToPawn_Bed. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Not creating guest beds for advanced bondageBed from BondageBed Torture (Continued). It does not have a CompAssignableToPawn_Bed. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Not creating guest beds for Bar Cage from BondageBedTorture Furniture Addon 1.4 - Retexture and More. It does not have a CompAssignableToPawn_Bed. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Not creating guest beds for Binding Cross from BondageBedTorture Furniture Addon 1.4 - Retexture and More. It does not have a CompAssignableToPawn_Bed. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Not creating guest beds for Saltire Cross from BondageBedTorture Furniture Addon 1.4 - Retexture and More. It does not have a CompAssignableToPawn_Bed. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Not creating guest beds for Round Cage from BondageBedTorture Furniture Addon 1.4 - Retexture and More. It does not have a CompAssignableToPawn_Bed. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Not creating guest beds for Prisoner Pole from BondageBedTorture Furniture Addon 1.4 - Retexture and More. It does not have a CompAssignableToPawn_Bed. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Not creating guest beds for Pillory from BondageBedTorture Furniture Addon 1.4 - Retexture and More. It does not have a CompAssignableToPawn_Bed. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Not creating guest beds for Operating Bondage Table from BondageBedTorture Furniture Addon 1.4 - Retexture and More. It does not have a CompAssignableToPawn_Bed. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Not creating guest beds for Beheading Block from BondageBedTorture Furniture Addon 1.4 - Retexture and More. It does not have a CompAssignableToPawn_Bed. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Spaceports] Fucking around with reflection and DBH...
+[Spaceports] Okay, showtime!
+[Spaceports] Hospitality FOUND, attempting to patch...
+[Spaceports] Attempting to postfix Verse.AI.Group.LordMaker.MakeNewLord...
+[Spaceports] Attempting to postfix Verse.AI.Group.LordManager.ExposeData...
+[Spaceports] Attempting to prefix Hospitality.IncidentWorker_VisitorGroup.TryExecuteWorker...
+[Spaceports] Hospitality + SOS2 not found, integration patches bypassed.
+[Spaceports] Trader Ships not found, patches bypassed.
+GAGARIN: <color=green>StartUpFinished called!</color>
+[Geological Landforms v1.7] Found landform data in the following mods: Geological Landforms
+[Geological Landforms v1.7] Loaded 44 landforms of which 0 are edited and 0 are custom.
+Could not allocate memory: System out of memory!
+Trying to allocate: 715827884B with 16 alignment. MemoryLabel: NewDelete
+Allocation happened at: Line:0 in Overloaded New[]
+Memory overview
+
+[ ALLOC_TEMP_THREAD ] used: 33008B | peak: 0B | reserved: 4063232B 
+[ ALLOC_TEMP_JOB_1_FRAME ] used: 0B | peak: 0B | reserved: 38797312B 
+[ ALLOC_TEMP_JOB_2_FRAMES ] used: 0B | peak: 0B | reserved: 1048576B 
+[ ALLOC_TEMP_JOB_4_FRAMES ] used: 0B | peak: 0B | reserved: 2097152B 
+[ ALLOC_TEMP_JOB_ASYNC ] used: 0B | peak: 0B | reserved: 5242880B 
+[ ALLOC_DEFAULT ] used: 714852016B | peak: 0B | reserved: 741056512B 
+[ ALLOC_GFX ] used: 1635203599B | peak: 0B | reserved: 1654599680B 
+[ ALLOC_CACHEOBJECTS ] used: 229097440B | peak: 0B | reserved: 241172480B 
+[ ALLOC_TYPETREE ] used: 244152B | peak: 0B | reserved: 5242880B 
+Could not allocate memory: System out of memory!
+Trying to allocate: 715827884B with 16 alignment. MemoryLabel: NewDelete
+Allocation happened at: Line:0 in Overloaded New[]
+Memory overview
+
+[ ALLOC_TEMP_THREAD ] used: 33008B | peak: 0B | reserved: 4063232B 
+[ ALLOC_TEMP_JOB_1_FRAME ] used: 0B | peak: 0B | reserved: 38797312B 
+[ ALLOC_TEMP_JOB_2_FRAMES ] used: 0B | peak: 0B | reserved: 1048576B 
+[ ALLOC_TEMP_JOB_4_FRAMES ] used: 0B | peak: 0B | reserved: 2097152B 
+[ ALLOC_TEMP_JOB_ASYNC ] used: 0B | peak: 0B | reserved: 5242880B 
+[ ALLOC_DEFAULT ] used: 714852016B | peak: 0B | reserved: 741056512B 
+[ ALLOC_GFX ] used: 1635203599B | peak: 0B | reserved: 1654599680B 
+[ ALLOC_CACHEOBJECTS ] used: 229097440B | peak: 0B | reserved: 241172480B 
+[ ALLOC_TYPETREE ] used: 244152B | peak: 0B | reserved: 5242880B 
+ 
+(Filename:  Line: 1507)
+
+Crash!!!
+SymInit: Symbol-SearchPath: '.;D:\SteamLibrary\steamapps\common\RimWorld;D:\SteamLibrary\steamapps\common\RimWorld;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 534, UserName: 'kcook'
+OS-Version: 10.0.0
+D:\SteamLibrary\steamapps\common\RimWorld\RimWorldWin64.exe:RimWorldWin64.exe (00007FF7A4E20000), size: 667648 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2019.4.30.51345
+C:\WINDOWS\SYSTEM32\ntdll.dll:ntdll.dll (00007FF9CF0D0000), size: 2064384 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.5007
+C:\WINDOWS\System32\KERNEL32.DLL:KERNEL32.DLL (00007FF9CEE70000), size: 794624 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4957
+C:\WINDOWS\System32\KERNELBASE.dll:KERNELBASE.dll (00007FF9CCA20000), size: 3137536 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4957
+D:\SteamLibrary\steamapps\common\RimWorld\UnityPlayer.dll:UnityPlayer.dll (00007FF91C790000), size: 27037696 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2019.4.30.51345
+C:\WINDOWS\System32\USER32.dll:USER32.dll (00007FF9CD350000), size: 1691648 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4717
+C:\WINDOWS\System32\win32u.dll:win32u.dll (00007FF9CD0C0000), size: 139264 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.5007
+C:\WINDOWS\System32\GDI32.dll:GDI32.dll (00007FF9CDBC0000), size: 176128 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4474
+C:\WINDOWS\System32\gdi32full.dll:gdi32full.dll (00007FF9CC840000), size: 1142784 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4957
+C:\WINDOWS\System32\msvcp_win.dll:msvcp_win.dll (00007FF9CC7A0000), size: 643072 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3636
+C:\WINDOWS\System32\ucrtbase.dll:ucrtbase.dll (00007FF9CCF10000), size: 1048576 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3636
+C:\WINDOWS\System32\ole32.dll:ole32.dll (00007FF9CDE80000), size: 1224704 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4355
+C:\WINDOWS\System32\RPCRT4.dll:RPCRT4.dll (00007FF9CED40000), size: 1191936 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4957
+C:\WINDOWS\System32\combase.dll:combase.dll (00007FF9CE9E0000), size: 3485696 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4717
+C:\WINDOWS\System32\SHLWAPI.dll:SHLWAPI.dll (00007FF9CDB60000), size: 348160 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4355
+C:\WINDOWS\System32\msvcrt.dll:msvcrt.dll (00007FF9CDDD0000), size: 647168 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 7.0.19041.3636
+C:\WINDOWS\System32\SETUPAPI.dll:SETUPAPI.dll (00007FF9CD680000), size: 4644864 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4355
+C:\WINDOWS\SYSTEM32\VERSION.dll:VERSION.dll (00007FF9C4AB0000), size: 40960 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3636
+C:\WINDOWS\System32\cfgmgr32.dll:cfgmgr32.dll (00007FF9CC9D0000), size: 319488 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3996
+C:\WINDOWS\System32\bcrypt.dll:bcrypt.dll (00007FF9CC770000), size: 159744 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3636
+C:\WINDOWS\System32\ADVAPI32.dll:ADVAPI32.dll (00007FF9CEFD0000), size: 729088 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.5011
+C:\WINDOWS\System32\sechost.dll:sechost.dll (00007FF9CDD10000), size: 655360 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4597
+C:\WINDOWS\System32\SHELL32.dll:SHELL32.dll (00007FF9CE260000), size: 7794688 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4957
+C:\WINDOWS\System32\OLEAUT32.dll:OLEAUT32.dll (00007FF9CD150000), size: 839680 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3636
+C:\WINDOWS\System32\IMM32.dll:IMM32.dll (00007FF9CE230000), size: 192512 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4474
+C:\WINDOWS\System32\CRYPT32.dll:CRYPT32.dll (00007FF9CCD20000), size: 1425408 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4894
+C:\WINDOWS\System32\WS2_32.dll:WS2_32.dll (00007FF9CDAF0000), size: 438272 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3636
+C:\WINDOWS\SYSTEM32\WINHTTP.dll:WINHTTP.dll (00007FF9C3370000), size: 1101824 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4717
+C:\WINDOWS\SYSTEM32\WINMM.dll:WINMM.dll (00007FF9B4520000), size: 159744 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3636
+C:\WINDOWS\SYSTEM32\HID.DLL:HID.DLL (00007FF9CAF80000), size: 53248 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3636
+C:\WINDOWS\SYSTEM32\OPENGL32.dll:OPENGL32.dll (00007FF994950000), size: 1212416 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4957
+C:\WINDOWS\SYSTEM32\GLU32.dll:GLU32.dll (00007FF9B31D0000), size: 180224 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3636
+C:\WINDOWS\SYSTEM32\kernel.appcore.dll:kernel.appcore.dll (00007FF9CAF90000), size: 73728 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3758
+C:\WINDOWS\System32\bcryptPrimitives.dll:bcryptPrimitives.dll (00007FF9CCE80000), size: 532480 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.5007
+C:\WINDOWS\system32\uxtheme.dll:uxtheme.dll (00007FF9C9630000), size: 647168 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4529
+C:\WINDOWS\System32\shcore.dll:shcore.dll (00007FF9CD2A0000), size: 708608 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4522
+C:\WINDOWS\SYSTEM32\windows.storage.dll:windows.storage.dll (00007FF9CA7D0000), size: 8011776 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4957
+C:\WINDOWS\SYSTEM32\Wldp.dll:Wldp.dll (00007FF9CC1A0000), size: 188416 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4780
+C:\WINDOWS\SYSTEM32\profapi.dll:profapi.dll (00007FF9CC6A0000), size: 147456 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4355
+D:\SteamLibrary\steamapps\common\RimWorld\MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll:mono-2.0-bdwgc.dll (00007FF939560000), size: 7790592 (result: 0), SymType: '-deferred-', PDB: ''
+C:\WINDOWS\System32\PSAPI.DLL:PSAPI.DLL (00007FF9CE1C0000), size: 32768 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3636
+C:\WINDOWS\SYSTEM32\iphlpapi.dll:iphlpapi.dll (00007FF9CBB90000), size: 241664 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3636
+C:\WINDOWS\System32\MSCTF.dll:MSCTF.dll (00007FF9CDBF0000), size: 1134592 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.5007
+C:\WINDOWS\SYSTEM32\d3d11.dll:d3d11.dll (00007FF9C6AB0000), size: 2502656 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4355
+C:\WINDOWS\SYSTEM32\dxgi.dll:dxgi.dll (00007FF9CB000000), size: 1007616 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4957
+C:\WINDOWS\System32\DriverStore\FileRepository\nvhmig.inf_amd64_910b2083fea9f734\nvldumdx.dll:nvldumdx.dll (00007FF99CDA0000), size: 770048 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 31.0.15.3742
+C:\WINDOWS\SYSTEM32\msasn1.dll:msasn1.dll (00007FF9CC330000), size: 73728 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3636
+C:\WINDOWS\SYSTEM32\cryptnet.dll:cryptnet.dll (00007FF9C2D80000), size: 200704 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3636
+C:\WINDOWS\SYSTEM32\drvstore.dll:drvstore.dll (00007FF9C2ED0000), size: 1339392 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4355
+C:\WINDOWS\SYSTEM32\devobj.dll:devobj.dll (00007FF9CC500000), size: 208896 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4355
+C:\WINDOWS\SYSTEM32\cryptbase.dll:cryptbase.dll (00007FF9CC110000), size: 49152 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3636
+C:\WINDOWS\System32\wintrust.dll:wintrust.dll (00007FF9CC960000), size: 430080 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4957
+C:\WINDOWS\System32\imagehlp.dll:imagehlp.dll (00007FF9CDDB0000), size: 118784 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3636
+C:\WINDOWS\SYSTEM32\CRYPTSP.dll:CRYPTSP.dll (00007FF9CC0F0000), size: 98304 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3636
+C:\WINDOWS\system32\rsaenh.dll:rsaenh.dll (00007FF9CB7B0000), size: 212992 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3636
+C:\WINDOWS\System32\DriverStore\FileRepository\nvhmig.inf_amd64_910b2083fea9f734\nvwgf2umx.dll:nvwgf2umx.dll (00007FF9168B0000), size: 99475456 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 31.0.15.3742
+C:\WINDOWS\system32\nvspcap64.dll:nvspcap64.dll (00007FF9903E0000), size: 1904640 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 3.5.0.70
+C:\WINDOWS\SYSTEM32\WTSAPI32.dll:WTSAPI32.dll (00007FF9C5D70000), size: 81920 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3636
+C:\WINDOWS\system32\nvapi64.dll:nvapi64.dll (00007FF9B8B20000), size: 7995392 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 31.0.15.3742
+C:\WINDOWS\System32\DriverStore\FileRepository\nvhmig.inf_amd64_910b2083fea9f734\Display.NvContainer\MessageBus.dll:MessageBus.dll (00007FF9AF490000), size: 7565312 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 1.22.2758.1620
+C:\WINDOWS\SYSTEM32\dxcore.dll:dxcore.dll (00007FF9C1640000), size: 241664 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4474
+C:\WINDOWS\System32\NSI.dll:NSI.dll (00007FF9CE9D0000), size: 32768 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3636
+C:\WINDOWS\SYSTEM32\dhcpcsvc.DLL:dhcpcsvc.DLL (00007FF9C4910000), size: 118784 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3636
+C:\WINDOWS\System32\clbcatq.dll:clbcatq.dll (00007FF9CD4F0000), size: 692224 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2001.12.10941.16384
+C:\WINDOWS\system32\wbem\wbemprox.dll:wbemprox.dll (00007FF9C2280000), size: 69632 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4474
+C:\WINDOWS\SYSTEM32\wbemcomn.dll:wbemcomn.dll (00007FF9B8550000), size: 589824 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4355
+C:\WINDOWS\system32\wbem\wbemsvc.dll:wbemsvc.dll (00007FF9B6560000), size: 81920 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4474
+C:\WINDOWS\system32\wbem\fastprox.dll:fastprox.dll (00007FF9B6580000), size: 1097728 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4355
+C:\WINDOWS\SYSTEM32\amsi.dll:amsi.dll (00007FF9AE740000), size: 126976 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4355
+C:\WINDOWS\SYSTEM32\USERENV.dll:USERENV.dll (00007FF9CC620000), size: 188416 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4355
+C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.24090.11-0\MpOav.dll:MpOav.dll (00007FF99C860000), size: 536576 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 4.18.24090.11
+C:\Program Files\McAfee\MfeAV\AMSIExt.dll:AMSIExt.dll (00007FF9AE5E0000), size: 835584 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 26.8.176.0
+C:\WINDOWS\System32\MMDevApi.dll:MMDevApi.dll (00007FF9C3690000), size: 544768 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4355
+C:\WINDOWS\SYSTEM32\AUDIOSES.DLL:AUDIOSES.DLL (00007FF9C3720000), size: 1576960 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4355
+C:\WINDOWS\SYSTEM32\powrprof.dll:powrprof.dll (00007FF9CBD00000), size: 307200 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3636
+C:\WINDOWS\SYSTEM32\UMPDC.dll:UMPDC.dll (00007FF9CBB70000), size: 73728 (result: 0), SymType: '-deferred-', PDB: ''
+C:\WINDOWS\SYSTEM32\resourcepolicyclient.dll:resourcepolicyclient.dll (00007FF9C9E60000), size: 81920 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4355
+C:\WINDOWS\SYSTEM32\xinput1_3.dll:xinput1_3.dll (0000000000400000), size: 122880 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 9.18.944.0
+C:\WINDOWS\System32\DriverStore\FileRepository\ki126951.inf_amd64_94804e3918169543\igd10iumd64.dll:igd10iumd64.dll (00007FF9BE800000), size: 20934656 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 23.20.16.4973
+C:\WINDOWS\SYSTEM32\ncrypt.dll:ncrypt.dll (00007FF9CC210000), size: 159744 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.5007
+C:\WINDOWS\SYSTEM32\apphelp.dll:apphelp.dll (00007FF9C7D20000), size: 606208 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4957
+C:\WINDOWS\SYSTEM32\NTASN1.dll:NTASN1.dll (00007FF9CC1D0000), size: 241664 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3636
+C:\WINDOWS\System32\DriverStore\FileRepository\ki126951.inf_amd64_94804e3918169543\igc64.dll:igc64.dll (00007FF9BB350000), size: 31019008 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 23.20.16.4973
+C:\WINDOWS\SYSTEM32\dcomp.dll:dcomp.dll (00007FF9C7070000), size: 1982464 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4597
+C:\WINDOWS\SYSTEM32\dwmapi.dll:dwmapi.dll (00007FF9C9F60000), size: 192512 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4355
+C:\WINDOWS\SYSTEM32\textinputframework.dll:textinputframework.dll (00007FF9BFD60000), size: 1019904 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4957
+C:\WINDOWS\SYSTEM32\CoreMessaging.dll:CoreMessaging.dll (00007FF9C7A40000), size: 991232 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4355
+C:\WINDOWS\SYSTEM32\CoreUIComponents.dll:CoreUIComponents.dll (00007FF9C7260000), size: 3518464 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3636
+C:\WINDOWS\SYSTEM32\ntmarta.dll:ntmarta.dll (00007FF9CBA00000), size: 208896 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3636
+C:\WINDOWS\SYSTEM32\wintypes.dll:wintypes.dll (00007FF9C8A50000), size: 1404928 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4717
+D:\SteamLibrary\steamapps\common\RimWorld\RimWorldWin64_Data\Plugins\x86_64\steam_api64.dll:steam_api64.dll (00007FF9A1EF0000), size: 311296 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.91.21.57
+C:\Program Files (x86)\Steam\steamclient64.dll:steamclient64.dll (00007FF915110000), size: 24735744 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 9.18.90.86
+C:\WINDOWS\SYSTEM32\MSWSOCK.dll:MSWSOCK.dll (00007FF9CBF00000), size: 434176 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3636
+C:\WINDOWS\SYSTEM32\Secur32.dll:Secur32.dll (00007FF9B1640000), size: 49152 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3636
+C:\Program Files (x86)\Steam\vstdlib_s64.dll:vstdlib_s64.dll (00007FF99C250000), size: 753664 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 9.18.90.86
+C:\Program Files (x86)\Steam\tier0_s64.dll:tier0_s64.dll (00007FF934E90000), size: 1683456 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 9.18.90.86
+C:\WINDOWS\SYSTEM32\SSPICLI.DLL:SSPICLI.DLL (00007FF9CC650000), size: 204800 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.4239
+C:\Program Files (x86)\Steam\gameoverlayrenderer64.dll:gameoverlayrenderer64.dll (00007FF934A10000), size: 1654784 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 9.18.90.86
+C:\WINDOWS\SYSTEM32\Msacm32.DLL:Msacm32.DLL (00007FF95D720000), size: 122880 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1
+C:\WINDOWS\SYSTEM32\winmmbase.dll:winmmbase.dll (00007FF98E2B0000), size: 155648 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1
+C:\WINDOWS\SYSTEM32\imaadp32.acm:imaadp32.acm (00007FF9C4A60000), size: 53248 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3636
+C:\Windows\System32\l3codeca.acm:l3codeca.acm (00007FF9C0BC0000), size: 110592 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 1.9.0.401
+C:\WINDOWS\SYSTEM32\msadp32.acm:msadp32.acm (00007FF9C4A50000), size: 45056 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3636
+C:\WINDOWS\SYSTEM32\msg711.acm:msg711.acm (00007FF9C0E10000), size: 36864 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3636
+C:\WINDOWS\SYSTEM32\msgsm32.acm:msgsm32.acm (00007FF9AE0A0000), size: 57344 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3636
+C:\WINDOWS\SYSTEM32\dbghelp.dll:dbghelp.dll (00007FF9CA3B0000), size: 1982464 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.3636
+
+========== OUTPUTTING STACK TRACE ==================
+
+0x00007FF91D5642BB (UnityPlayer) UnityMain
+0x00007FF91D563DCA (UnityPlayer) UnityMain
+0x00007FF91CD1F202 (UnityPlayer) UnityMain
+0x00007FF91CD1D0CE (UnityPlayer) UnityMain
+0x00007FF91CD1CCD3 (UnityPlayer) UnityMain
+0x00007FF91CE24491 (UnityPlayer) UnityMain
+0x00007FF91D119097 (UnityPlayer) UnityMain
+0x000001B23F0A5429 (Mono JIT Code) (wrapper managed-to-native) UnityEngine.Texture2D:Compress (UnityEngine.Texture2D,bool)
+0x000001B23C0E0F1B (Mono JIT Code) Verse.StaticTextureAtlas:Bake (bool)
+0x000001B23C0DF1AB (Mono JIT Code) Verse.GlobalTextureAtlasManager:<BakeStaticAtlases>g__FlushBatch|7_0 (Verse.TextureAtlasGroupKey,Verse.GlobalTextureAtlasManager/<>c__DisplayClass7_0&)
+0x000001B23C0DE58B (Mono JIT Code) Verse.GlobalTextureAtlasManager:BakeStaticAtlases ()
+0x000001B208D3B0F3 (Mono JIT Code) Verse.PlayDataLoader/<>c:<DoPlayLoad>b__4_4 ()
+0x000001B15CEFB2BC (Mono JIT Code) Verse.LongEventHandler:ExecuteToExecuteWhenFinished ()
+0x000001B15CEFB933 (Mono JIT Code) Verse.LongEventHandler:UpdateCurrentAsynchronousEvent ()
+0x000001B186AE0223 (Mono JIT Code) Verse.LongEventHandler:LongEventsUpdate (bool&)
+0x000001B1B01EF1F3 (Mono JIT Code) (wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.Update_Patch1 (Verse.Root)
+0x000001B186ABECEB (Mono JIT Code) Verse.Root_Entry:Update ()
+0x000001B15C233C50 (Mono JIT Code) (wrapper runtime-invoke) object:runtime_invoke_void__this__ (object,intptr,intptr,intptr)
+0x00007FF93968E270 (mono-2.0-bdwgc) mono_get_runtime_build_info
+0x00007FF939612AE2 (mono-2.0-bdwgc) mono_perfcounters_init
+0x00007FF93961BB3F (mono-2.0-bdwgc) mono_runtime_invoke
+0x00007FF91D06606D (UnityPlayer) UnityMain
+0x00007FF91D063443 (UnityPlayer) UnityMain
+0x00007FF91D04C603 (UnityPlayer) UnityMain
+0x00007FF91D04C6BD (UnityPlayer) UnityMain
+0x00007FF91CDD8110 (UnityPlayer) UnityMain
+0x00007FF91CF263C7 (UnityPlayer) UnityMain
+0x00007FF91CF26463 (UnityPlayer) UnityMain
+0x00007FF91CF288BC (UnityPlayer) UnityMain
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 00007FF91CCD751E)
+0x00007FF91CCD751E (UnityPlayer) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 00007FF91CCD627A)
+0x00007FF91CCD627A (UnityPlayer) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 00007FF91CCDA32C)
+0x00007FF91CCDA32C (UnityPlayer) (function-name not available)
+0x00007FF91CCDDE1B (UnityPlayer) UnityMain
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 00007FF7A4E211F2)
+0x00007FF7A4E211F2 (RimWorldWin64) (function-name not available)
+0x00007FF9CEE87374 (KERNEL32) BaseThreadInitThunk
+0x00007FF9CF11CC91 (ntdll) RtlUserThreadStart
+
+========== END OF STACKTRACE ===========
+
+A crash has been intercepted by the crash handler. For call stack and other details, see the latest crash report generated in:
+ * C:/Users/kcook/AppData/Local/Temp/Ludeon Studios/RimWorld by Ludeon Studios/Crashes
